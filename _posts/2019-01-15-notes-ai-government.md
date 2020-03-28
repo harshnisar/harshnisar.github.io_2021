@@ -1,5 +1,5 @@
 ---
-title: "Notes and Thoughts from developing an AI/ML/Optimization project in the Indian Government"
+title: "Notes on developing an algorithmic projects in the Indian Government"
 categories:
   - Blog
 tags:
