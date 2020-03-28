@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Harsh Nisar"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "https://pbs.twimg.com/profile_images/1230500719997968384/QAv5ZCUN_400x400.jpg"
   bio    : "Notings on Governance, Algorithms and Technology. Sumbitted please for your perusal and further action if any"
   links:
     - label: "Website"
