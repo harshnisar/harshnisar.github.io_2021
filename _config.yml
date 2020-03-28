@@ -60,8 +60,7 @@ plugins:
 author:
   name   : "Harsh Nisar"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : ""Notings on Governance, Algorithms and Technology. Sumbitted please for your
-  perusal and further action if any"
+  bio    : "Notings on Governance, Algorithms and Technology. Sumbitted please for your perusal and further action if any"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
