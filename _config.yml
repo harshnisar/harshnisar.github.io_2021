@@ -27,9 +27,10 @@ minimal_mistakes_skin: default
 search: true
 
 analytics:
-  provider               : "google-gtag" # false (default), "google", "google-universal", "custom"
+  provider: "google-gtag" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-162147676-1"
+    tracking_id: "UA-162147676-1"
+    anonymize_ip: false
 
 # Build settings
 markdown: kramdown
