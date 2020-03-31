@@ -14,6 +14,8 @@ It’s 6:00 AM and Imran is ready to leave for work. Their 2 year old son isn’
 
 Meanwhile in Delhi - the survey data from many engineers like Imran across the country are  aggregated to fit a single bar graph with a 2 line caption in a government commissioned, multilateral bank funded, big-4 consultancy authored report. The report is titled “Data driven Innovation in Rural Infrastructure” which among many things concludes that state capacity is limited, corrupt and pushes for further privatisation.  
 
+Disclaimer: This is a fictional write up loosely inspired by ground realities.
+
 <div class="notice">
   <h4>Message</h4>
   <p>
