@@ -12,7 +12,7 @@ Disclaimer: Government’s response to COVID-19 cannot be measured based on the 
 
 
   
-{% raw %}<img src="https://harshnisar.github.io/images/Madhya Pradesh_solo.png" alt="" class="full">{% endraw %}
+{% raw %}<img src="https://harshnisar.github.io/images/Madhya_Pradesh_solo.png" alt="" class="full">{% endraw %}
 
 
 {% raw %}<img src="https://harshnisar.github.io/images/GOI_Solo.png" alt="" class="full">{% endraw %}
@@ -21,4 +21,4 @@ Disclaimer: Government’s response to COVID-19 cannot be measured based on the 
 {% raw %}<img src="https://harshnisar.github.io/images/Kerala_solo.png" alt="" class="full">{% endraw %}
 
 
-{% raw %}<img src="https://harshnisar.github.io/images/Delhi Solo.png" alt="" class="full">{% endraw %}
+{% raw %}<img src="https://harshnisar.github.io/images/Delhi_Solo.png" alt="" class="full">{% endraw %}
