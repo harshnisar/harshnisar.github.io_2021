@@ -16,13 +16,9 @@ While most state government notifications (pls see above) came out in March, a h
 {% raw %}<img src="https://harshnisar.github.io/images/Madhya_Pradesh_solo.png" alt="" class="full">{% endraw %}
 
 
-{% raw %}<img src="https://harshnisar.github.io/images/GOI_Solo.png" alt="" class="full">{% endraw %}
-
-
 {% raw %}<img src="https://harshnisar.github.io/images/Kerala_solo.png" alt="" class="full">{% endraw %}
 
 
-{% raw %}<img src="https://harshnisar.github.io/images/Delhi_Solo.png" alt="" class="full">{% endraw %}
 
 To conclude as little the better, but interesting nonetheless. The state governments, districts, frontline workers have been working incredibly hard in these unprecedented times. 
 
